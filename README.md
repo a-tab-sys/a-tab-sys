@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 \[Subtitle\]
 ------------
-![Dark Mode Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+Profile&bg=000000&color=ffffff)
 \[Longer Description\]
 
 * 🌍  I'm based in Ontario, Canada
