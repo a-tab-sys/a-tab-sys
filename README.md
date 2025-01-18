@@ -31,3 +31,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://github.com/a-tab-sys" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-tab-sys&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<img src="https://raw.githubusercontent.com/a-tab-sys/a-tab-sys/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdxYTBtdHpydzF2N2dpOXU1cXBmdHRrOG5lbmU3cWduYzVpOTlseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif"  />
+
+###
