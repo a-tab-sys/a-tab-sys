@@ -11,8 +11,9 @@ Hi there! I'm an aspiring software developer and mechatronics engineering studen
 - 🔧 Interested in exploring the intersection of robotics, automation, and software development.  
 - 🖥️ Experienced in Programming Languages: Python, Java, C++
 - 🚀 Done lots of work with microcontrollers and prototyping: Skilled in Arduino development and programming (C++), with hands-on experience in utilizing a wide range of electronic components, including actuators, I/O interfaces, and sensors, to build functional prototypes and troubleshoot electronic systems.
+- 🤖 Worked with Numerrical Analysis softwares: MATLAB, PowerBI and expieriance streamlining tasks withh Power Automate.
    
-- 🤖 Currently learning OpenCV, Tensorflow and Full Stack Web Development  
+- 🧠 Currently learning OpenCV, Tensorflow and Full Stack Web Development  
 ------------
 
 ###
