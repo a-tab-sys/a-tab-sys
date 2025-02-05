@@ -5,7 +5,7 @@ Hi there! I'm an aspiring software developer and mechatronics engineering studen
 
 ### 🌟 About Me:
 - 🌍  I'm based in Ontario, Canada
-- ✉️  You can contact me at [\[email\]](mailto:ammaarah.t33@gmail.com)
+<!--- ✉️  You can contact me at [\[email\]](mailto:ammaarah.t33@gmail.com)-->
 
 
 - 🔧 Interested in exploring the intersection of robotics, automation, and software development.  
