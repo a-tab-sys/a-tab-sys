@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I go by BuildbyBit
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 <!-- \[Subtitle\]-->
 Hi there! I'm an aspiring software developer and mechatronics engineering student passionate about exploring and mastering inovative technologies
@@ -11,7 +11,7 @@ Hi there! I'm an aspiring software developer and mechatronics engineering studen
 - 🔧 Interested in exploring the intersection of robotics, automation, and software development.  
 - 🖥️ Experienced in Programming Languages: Python, Java, C++
 - 🚀 Done lots of work with microcontrollers and prototyping: Skilled in Arduino development and programming (C++), with hands-on experience in utilizing a wide range of electronic and circuit components, including actuators, I/O interfaces, and sensors, to build functional prototypes and troubleshoot electronic systems.
-- 🤖 Worked with Numerrical Analysis softwares: MATLAB, PowerBI and expieriance streamlining tasks withh Power Automate.
+- 🤖 Worked with Numerical Analysis softwares: MATLAB, PowerBI and experiance streamlining tasks with Power Automate.
    
 - 🧠 Currently learning OpenCV, Tensorflow and Full Stack Web Development  
 ------------
@@ -71,7 +71,7 @@ Hi there! I'm an aspiring software developer and mechatronics engineering studen
 <!-- 
 ### Socials
 <p align="left"> <a href="https://www.github.com/a-tab-sys" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/[yourname]" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
--->
-💡 I believe in continuous learning and building exciting projects, bit by bit ... previous projects will be uploaded to GitHub soon 
+
+💡 I believe in continuous learning and building exciting projects, bit by bit ... previous projects will be uploaded to GitHub soon -->
 
 
