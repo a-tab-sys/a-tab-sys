@@ -5,15 +5,15 @@ Hi there! I'm an aspiring software developer and mechatronics engineering studen
 
 ### 🌟 About Me:
 - 🌍  I'm based in Ontario, Canada
-<!--- ✉️  You can contact me at [\[email\]](mailto:ammaarah.t33@gmail.com)-->
+- ✉️  You can contact me at [\[email\]](mailto:ammaarah.t33@gmail.com)
 
 
 - 🔧 Interested in exploring the intersection of robotics, automation, and software development.  
-- 🖥️ Experienced in Programming Languages: Python, Java, C++
+- 🖥️ Experienced in Programming Languages: Python, Java, C++, JS
 - 🚀 Done lots of work with microcontrollers and prototyping: Skilled in Arduino development and programming (C++), with hands-on experience in utilizing a wide range of electronic and circuit components, including actuators, I/O interfaces, and sensors, to build functional prototypes and troubleshoot electronic systems.
 - 🤖 Worked with Numerical Analysis softwares: MATLAB, PowerBI and experiance streamlining tasks with Power Automate.
    
-- 🧠 Currently learning OpenCV, Tensorflow and Full Stack Web Development  
+- 🧠 Currently learning NLP's, Generative AI and Full Stack Web Development  
 ------------
 
 ###
