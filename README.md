@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 <!-- \[Subtitle\]-->
-Hi there! I'm an aspiring software developer and mechatronics engineering student passionate about exploring and mastering inovative technologies
+Hi there! I'm an aspiring software developer and mechatronics engineering student interested in exploring and mastering inovative technologies
 
 ### 🌟 About Me:
 - 🌍  I'm based in Ontario, Canada
