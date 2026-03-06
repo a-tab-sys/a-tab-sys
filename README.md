@@ -1,6 +1,6 @@
 
 <!-- \[Title\]-->
-Aye, i guess im here now too
+Guess im here too now
 
 
 
