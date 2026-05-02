@@ -1,4 +1,4 @@
-It exists. It just goes to another school.
+It exists, just goes to another school.
 
 
 
